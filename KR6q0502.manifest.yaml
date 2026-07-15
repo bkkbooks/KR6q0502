@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0502/v1
 canonical_location: https://kanripo.org/bkk/KR6q0502/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 石璞質禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0502_000.yaml, hash: 'sha256:f89c203faa8ade4c68fc666dc71da2ee0177e4dace6018a28bd1918e125e1326'}
-  - {seq: 1, filename: KR6q0502_001.yaml, hash: 'sha256:d0cfb3f492cfaea192e26b895aa0ac0efdc0e7560ee3b3678b1ed3e0254a1bc1'}
-  - {seq: 2, filename: KR6q0502_002.yaml, hash: 'sha256:b0f11b162ae38f4b473a6b402b7e043acd63541ffbdda9a909822c32dd1123b7'}
+  - {seq: 0, filename: KR6q0502_000.yaml, hash: 'sha256:3904b8ea7915e0c589302925986402c5446c2aaa984ce8e83028a634a92d0bde'}
+  - {seq: 1, filename: KR6q0502_001.yaml, hash: 'sha256:a0196c8ef212b24a203c07d25b32c2f237891a067ff2c25fd96e2160036fd36f'}
+  - {seq: 2, filename: KR6q0502_002.yaml, hash: 'sha256:bb61bde2dad54077ce7b12b3f8cee59c8d58ec6cb02b3068b13a54b8f10d36c7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0502_000.markers.yaml, hash: 'sha256:02aceeba1289e81656c0634fddd2b9ed366b3531bd552bc5775b762835de5ba2'}
-  - {seq: 1, role: markers, filename: assets/KR6q0502_001.markers.yaml, hash: 'sha256:4c55e61823e921cbadcfddeb25f3f6905c4c4b6d97a3e1dec747c0d4d1ff7d27'}
-  - {seq: 2, role: markers, filename: assets/KR6q0502_002.markers.yaml, hash: 'sha256:ca21c11100e8695b7e5ebc95a22a02cabaec93c0b127762bf708f97ad756ca7d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0502_000.markers.yaml, hash: 'sha256:0e7230cd94fd1076fe9612e7e1d5260953eeed61eaee06c9cb4591a0653a1a48'}
+  - {seq: 1, role: markers, filename: assets/KR6q0502_001.markers.yaml, hash: 'sha256:e722c38583b2360cb87c5e32870ab6d15a384b2e873e79bcebc78ffde671cd1d'}
+  - {seq: 2, role: markers, filename: assets/KR6q0502_002.markers.yaml, hash: 'sha256:7aff2430bb1457b93b93fb6eb347827ce74c0a9bf01688616e147bdf3a8e6b09'}
 table_of_contents:
 - ref:
     seq: 0
@@ -439,4 +439,7 @@ table_of_contents:
   label: 贈鵡湖法姪復園王居士
   type: mulu
   level: 1
-hash: sha256:1a7454400f345cd913be1317401f3e263482aeb23af8ffd6da9bf6a28fd5f883
+hash: sha256:a95ec0041fa545ad0f325addd6c6e3fc96a5078ae96d92b6e96a47ee90fe5121
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
