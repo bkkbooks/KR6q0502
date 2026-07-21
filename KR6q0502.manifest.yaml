@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0502_000.yaml, hash: 'sha256:3904b8ea7915e0c589302925986402c5446c2aaa984ce8e83028a634a92d0bde'}
+  - {seq: 0, filename: KR6q0502_000.yaml, hash: 'sha256:080157f0648c86f30b5507594f67951111a71b9a4b7fe5f011a8da51d58f752d'}
   - {seq: 1, filename: KR6q0502_001.yaml, hash: 'sha256:a0196c8ef212b24a203c07d25b32c2f237891a067ff2c25fd96e2160036fd36f'}
   - {seq: 2, filename: KR6q0502_002.yaml, hash: 'sha256:bb61bde2dad54077ce7b12b3f8cee59c8d58ec6cb02b3068b13a54b8f10d36c7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0502_000.markers.yaml, hash: 'sha256:0e7230cd94fd1076fe9612e7e1d5260953eeed61eaee06c9cb4591a0653a1a48'}
+  - {seq: 0, role: markers, filename: assets/KR6q0502_000.markers.yaml, hash: 'sha256:29f73749c83b521fd4840ae94ff974fecead6d2c8c0ca789fe324656606d85ae'}
   - {seq: 1, role: markers, filename: assets/KR6q0502_001.markers.yaml, hash: 'sha256:e722c38583b2360cb87c5e32870ab6d15a384b2e873e79bcebc78ffde671cd1d'}
   - {seq: 2, role: markers, filename: assets/KR6q0502_002.markers.yaml, hash: 'sha256:7aff2430bb1457b93b93fb6eb347827ce74c0a9bf01688616e147bdf3a8e6b09'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0502_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0502_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錢廣居敘
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0502_J_000-mulu-3
     span:
-    - front
+    - body
     - 419
     - 419
   label: 王掞序
@@ -439,7 +439,7 @@ table_of_contents:
   label: 贈鵡湖法姪復園王居士
   type: mulu
   level: 1
-hash: sha256:a95ec0041fa545ad0f325addd6c6e3fc96a5078ae96d92b6e96a47ee90fe5121
+hash: sha256:eaa52681baa38029b6583656005bfe1f2d6dff5a1b57d161e2110e05fb0011d9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
